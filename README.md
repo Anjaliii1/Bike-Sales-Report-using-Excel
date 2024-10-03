@@ -10,6 +10,7 @@
                    a. Import Your Data: Open Excel and import your bike buyers dataset (CSV, Excel file, etc.).
                    b. Clean Your Data: Check for missing values, duplicates, and inconsistencies. Make sure the data is in a tabular format.
                    c. Organize Your Data: Ensure each column represents a variable (e.g., Age, Gender, Purchase Price, Region, Location) and each row represents a buyer.
+                   d. Convert the raw dataset into the working dataset.
                2. Analyze the Data:
                    a. Identify Key Metrics: Decide what metrics you want to track (e.g.average purchase price, number of buyers by category).
                    b. Create Calculated Columns: Use Excel formulas to create any necessary calculated fields, such as profit margins or customer segments. 
